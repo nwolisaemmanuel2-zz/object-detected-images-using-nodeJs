@@ -1,0 +1,23 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "micro-dev -p 3001 --dotenv ../.env"
+  },
+  "dependencies": {
+    "content-type": "^1.0.4",
+    "jimp": "^0.6.0",
+    "micro": "^9.3.3",
+    "micro-cors": "^0.1.1",
+    "tfjs-lambda": "^0.0.14"
+  },
+  "devDependencies": {
+    "@tensorflow/tfjs-node": "^1.0.2",
+    "micro-dev": "^3.0.0"
+  },
+  "engines": {
+    "node": "10.x"
+  }
+}
