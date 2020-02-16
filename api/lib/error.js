@@ -16,6 +16,7 @@ class ClientError extends Error {
  * @param {number} statusCode
  * @param {{ code: string, message: string, [detail: string]: any }} error
  */
+
 const createError = (statusCode, error, details) => {
   // legacy createError
   if (typeof error === 'string') {
