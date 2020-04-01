@@ -2,7 +2,6 @@
 
 An API and an app to detect objects on images.
 
-
 **Deploy on ZEIT Now:**
 [![Deploy to ZEIT Now](https://zeit.co/button)](https://zeit.co/new/project?template=lucleray/object-detection)
 
