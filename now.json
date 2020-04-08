@@ -17,4 +17,6 @@
   "env": {
     "TF_MODEL_URL": "https://storage.googleapis.com/tfjs-models/savedmodel/ssdlite_mobilenet_v2"
   }
+
+
 }
