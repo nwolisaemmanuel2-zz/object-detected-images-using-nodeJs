@@ -24,7 +24,6 @@ Running the API locally:
 ```
 yarn --cwd api run dev
 ```
-
 Running the app locally:
 
 
