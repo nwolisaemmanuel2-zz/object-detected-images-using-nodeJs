@@ -17,7 +17,6 @@ The repository contains two folders:
 - `/app`, the code of the frontend website, powered by Next.js
 
 ## Development
-
 Running the API locally:
 
 ```
