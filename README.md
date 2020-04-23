@@ -10,7 +10,6 @@ An API and an app to detect objects on images.
 ![Screenshot of the app](screenshot.png)
 
 If you want to read more about how this was made, [read the detailed article about it on ZEIT's blog]
-
 (https://zeit.co/blog/serverless-machine-learning).
 
 The repository contains two folders:
