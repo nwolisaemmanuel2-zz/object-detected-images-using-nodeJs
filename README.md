@@ -19,7 +19,6 @@ The repository contains two folders:
 
 ## Development
 
-
 Running the API locally:
 
 ```
