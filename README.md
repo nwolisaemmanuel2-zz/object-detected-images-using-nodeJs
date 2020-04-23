@@ -16,6 +16,7 @@ The repository contains two folders:
 - `/api`, the code of the API taking care of detecting object on images, powered by Tensorflow
 - `/app`, the code of the frontend website, powered by Next.js
 
+
 ## Development
 
 Running the API locally:
