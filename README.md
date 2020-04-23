@@ -12,7 +12,6 @@ An API and an app to detect objects on images.
 If you want to read more about how this was made, [read the detailed article about it on ZEIT's blog](https://zeit.co/blog/serverless-machine-learning).
 
 The repository contains two folders:
-
 - `/api`, the code of the API taking care of detecting object on images, powered by Tensorflow
 - `/app`, the code of the frontend website, powered by Next.js
 
